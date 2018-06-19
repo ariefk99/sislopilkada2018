@@ -1,0 +1,2 @@
+# This allows you to temporary redirect your entire website to any other domain
+Redirect 302 / http://sislo-bawaslu.pptik.id/
